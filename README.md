@@ -1,6 +1,8 @@
 # ML-Fashion-Classifier
 
-Assignment involved building and evaluating two models on the Fashion MNIST dataset: an MLP and a CNN.
+CS290 (Applied Machine Learning) assignment
+
+Assignment involved building and evaluating two models on the Fashion MNIST dataset: a Multilayer Perceptron(MLP) and a Convolutional Neural Network(CNN).
 
 The MLP consists of 3 fully connected layers and ReLU activations. It achieved a test accuracy of 82.6%, with a total parameter count of approximately 100 thousand.
 
